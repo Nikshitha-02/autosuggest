@@ -1,8 +1,21 @@
 h1{
     color: red;
 }
-property:value
 #home{
     text-align: center;
-    border :3px solid blue;
+    border :3px ;
+    border-color:blue;
+    border-style: solid;
+}
+#p1
+{
+    color: blue;
+
+}
+#p2
+{
+    color: green;
+}
+#home:hover{
+    background-color: lavender;
 }
